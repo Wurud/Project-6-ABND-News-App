@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="title">Title: </string>
+    <string name="section">Section: </string>
+    <string name="date">Date: </string>
+    <string name="AuthorName">Author: </string>
+    <string name="url">Url: </string>
+    <string name="noData">No News Has Been Added</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News App Settings</string>
+    <string name="connection_msg">Network Connection is Not Available</string>
+
+    <!-- Strings For Order-By Preference [CHAR LIMIT=30] -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">newest</string>
+
+    <!-- Label for order-by most recent option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_most_recent_label">Most Recent</string>
+    <string name="settings_order_by_most_recent_value" translatable="false">newest</string>
+
+    <!-- Label for order-by magnitude option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_most_oldest_label">Most Oldest</string>
+    <string name="settings_order_by_most_oldest_value" translatable="false">oldest</string>
+
+</resources>
